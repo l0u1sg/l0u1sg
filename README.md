@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I'm Louis
-A Frech Developer  
+-  🇫🇷 Frech Developer  
 - 🌱 I’m currently learning Angular
 
 
