@@ -4,7 +4,7 @@
 A Frech Developer  
 - 🌱 I’m currently learning Angular
 
-![l0u1sg Github Stats](https://github-readme-stats.vercel.app/api?username=l0u1sg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 - 🔭 I’m currently working on :
     Corona-Online [corona-online.ga](https://corona-online.ga)
 
@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![l0u1sg Github Stats](https://github-readme-stats.vercel.app/api?username=l0u1sg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
