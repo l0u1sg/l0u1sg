@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 # I'm Louis
--  🇫🇷 Frech Developer  
+-  🇫🇷 French Developer  
 - 🌱 I’m currently learning Angular
 - 👯 I’m currently working with AideJeune 
 
 - 🔭 I’m currently working on :
-    Kard Bank API [https://github.com/l0u1sg/kard-bank-api](Access to the repo )
+    Kard Bank API [(Access to the repo)](https://github.com/l0u1sg/kard-bank-api)
 
 
 <!--
