@@ -12,8 +12,7 @@ I'm Louis
 - 🌱 I’m currently learning React
 - 👯 I’m currently working with AideJeune 
 
-- 🔭 I’m currently working on :
-    Kard Bank API [(Access to the repo)](https://github.com/l0u1sg/kard-bank-api)
+
 
 
 <!--
