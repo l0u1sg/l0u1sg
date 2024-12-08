@@ -1,5 +1,5 @@
-## As part of the ["De-google-ify Internet"](https://degooglisons-internet.org/en/) operation, I now host my own Git server, running on GitLab CE. 
-I will continue to use GitHub on the side, but my new projects will now be on GitLab  
+## As part of the ["De-google-ify Internet"](https://degooglisons-internet.org/en/) operation, I now host my own Git server, running on Gitea. 
+I will continue to use GitHub on the side, but my new projects will now be on Gitea  
 **See you there? : https://gitea.louisgallet.fr**
 
 --- 
